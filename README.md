@@ -1,7 +1,7 @@
 # Java-Blackjack-Game
 This was a final project for a Blackjack game using Java
 
-The Blackjack Card Game is a Java program that simulates the classic card game of Blackjack. This program was provided in pieces with many missing lines, empty functions and multiple syntax errors. It showcases various aspects of object-oriented programming, including inheritance, encapsulation, and abstract classes and debugging. 
+The Blackjack Card Game is a Java program that simulates the classic card game of Blackjack. This program was provided in pieces with many missing lines, empty functions and multiple syntax errors. It showcases various aspects of object-oriented programming, including inheritance, encapsulation, and abstract classes. Errors were intentionally created to put focus on debugging. 
 
 
 1. Compile and run the program to play a game of Blackjack against the dealer.
